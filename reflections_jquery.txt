@@ -1,0 +1,26 @@
+This files describes reflections on using jQuery.
+
+20170603
+Questions that I foresee for this course:
+1) When it is worth using a jQuery or another ready package or 
+librar. When is it better making methods and functions yourself.
+
+2) What is a good professional pattern of using jQuery.
+
+3) How does jQuery relates to other libaries, Ajax, for instance?
+
+
+
+REFLECTIONS LOG
+20170603
+Started jQuery course today. However, have used it already
+quite a number of times.
+This course gave me an important refresher of DOM structre.
+This course explained such terms as children, siblings, parents,
+and others. Though I knew them already, I did not percept them 
+properly. James provided an very easily memorizable tree diagram,
+with green sheets, which is now in my mind. Also, I instantly 
+recalled about CSS selectors. Though I cannot remember anything
+clearly now, I am sure that the next time I will work it out, I 
+will learn it much better.
+
