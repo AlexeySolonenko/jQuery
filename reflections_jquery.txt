@@ -24,3 +24,5 @@ recalled about CSS selectors. Though I cannot remember anything
 clearly now, I am sure that the next time I will work it out, I 
 will learn it much better.
 
+20170604
+Git pull test
