@@ -14,11 +14,11 @@ Good luck!
 
 */
 function pictureChanger(url){
-  console.log( "ready here!" );
+ 
   var imgToChange = $('.articles').find('img').first();
   console.log($('.articles').find('img').html());
-  console.log(imgToChange.text());
-  console.log(imgToChange);
+  console.log(imgToChange.html());
+  
   imgToChange.attr('src',url);
   
 };
